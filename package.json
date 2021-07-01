@@ -1,7 +1,6 @@
 {
   "name": "projeto",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
@@ -11,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "readline-sync": "^1.4.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reginaldo007oliveira/projeto01JavaScript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Reginaldo007oliveira/projeto01JavaScript/issues"
+  },
+  "homepage": "https://github.com/Reginaldo007oliveira/projeto01JavaScript#readme",
+  "description": ""
 }
